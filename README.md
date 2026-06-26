@@ -12,8 +12,8 @@
 - 💻 Passionate about **MERN stack development & clean UI/UX**
 - 💡 Strong in **DSA (C++)** and problem solving
 - 🔭 Currently building **full-stack web projects**
-- 🤝 Looking for **frontend / full-stack developer roles**
-- 📫 Reach me: **aj945892@gmail.com**
+- 🤝 Looking for **frontend/ backend / full-stack developer roles**
+- 📫 Reach me: **ayushk.singh1312@gmail.com**
 - 🌱 I’m currently learning: **TypeScript & Next.js**
 
 ---
